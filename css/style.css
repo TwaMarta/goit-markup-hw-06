@@ -499,7 +499,7 @@ text-align: center;
 }
 
 .form_checkbox:checked + .reg::before {
-  background-image: url('/images/check.svg');
+  background-image: url('./images/check.svg');
   background-color: var(--third-color);
   border: 3px solid var(--third-color);
   background-repeat: no-repeat;
